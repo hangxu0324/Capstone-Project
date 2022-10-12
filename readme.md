@@ -1,3 +1,4 @@
+
 ## Improving the sales forecasting process by modeling the lifecycle events of a drug
 
 ### Project objective: 
@@ -31,3 +32,4 @@ Aayush Kumar Verma
 ### Instructor: <img height="20" alt="image" src="https://user-images.githubusercontent.com/91235078/195434612-3184b9db-958c-43cd-a977-7ad474e0d2fa.png">
 
 Sining Chen
+
